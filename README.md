@@ -17,3 +17,4 @@
     Raspberry PI
     Placa de rede sem fios ou adaptador de USB para ethernet dependendo do modelo do Raspberry pi. 
   Testado com Raspberry PI 3B.
+[/PT]
